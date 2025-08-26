@@ -5,6 +5,7 @@ Solving Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
@@ -16,6 +17,7 @@ Solving Leetcode Problems
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
