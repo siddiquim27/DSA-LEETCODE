@@ -2,7 +2,7 @@ class Solution {
 
     // calculating max value in give array
     int findMax(vector<int> &arr){
-        int maxi = INT_MAX;
+        int maxi = INT_MIN;
         for(int i = 0; i < arr.size(); i++){
             maxi = max(maxi , arr[i]);
         }
