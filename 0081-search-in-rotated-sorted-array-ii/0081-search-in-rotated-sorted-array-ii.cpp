@@ -25,7 +25,7 @@ public:
                 if(nums[mid] <= target && target <= nums[high]){
                     low = mid + 1;
                 }else{
-                    high = mid;
+                    high = mid - 1;
                 }
             } 
         }
