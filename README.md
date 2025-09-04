@@ -35,6 +35,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
+| [3830-find-closest-person](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
