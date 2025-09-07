@@ -15,6 +15,7 @@ Solving Leetcode Problems
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Solving Leetcode Problems
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
 | [3830-find-closest-person](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3830-find-closest-person) |
 ## Two Pointers
