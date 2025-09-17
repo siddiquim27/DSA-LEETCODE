@@ -42,6 +42,7 @@ Solving Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -50,6 +51,7 @@ Solving Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -59,4 +61,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
