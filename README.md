@@ -37,6 +37,7 @@ Solving Leetcode Problems
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
 | [3830-find-closest-person](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -65,4 +66,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
