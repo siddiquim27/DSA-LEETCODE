@@ -56,11 +56,13 @@ Solving Leetcode Problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -79,4 +81,5 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
