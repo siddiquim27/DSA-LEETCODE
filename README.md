@@ -12,6 +12,7 @@ Solving Leetcode Problems
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -54,6 +55,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -73,4 +75,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
