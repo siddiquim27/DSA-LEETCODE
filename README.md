@@ -8,6 +8,7 @@ Solving Leetcode Problems
 | [0033-search-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -38,6 +39,7 @@ Solving Leetcode Problems
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
