@@ -13,6 +13,7 @@ Solving Leetcode Problems
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
@@ -59,6 +60,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -72,6 +74,7 @@ Solving Leetcode Problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -85,6 +88,7 @@ Solving Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -92,4 +96,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
