@@ -5,6 +5,7 @@ Solving Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0035-search-insert-position) |
@@ -60,6 +61,7 @@ Solving Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
