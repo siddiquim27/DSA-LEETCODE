@@ -6,6 +6,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0035-search-insert-position) |
@@ -72,6 +73,7 @@ Solving Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -104,4 +106,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
