@@ -30,6 +30,7 @@ Solving Leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -120,4 +122,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
