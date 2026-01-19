@@ -23,6 +23,7 @@ Solving Leetcode Problems
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1929-concatenation-of-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -44,6 +45,7 @@ Solving Leetcode Problems
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +128,12 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Prefix Sum
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
