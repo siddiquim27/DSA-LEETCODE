@@ -89,6 +89,7 @@ Solving Leetcode Problems
 | [0125-valid-palindrome](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -104,6 +105,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -145,4 +147,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
