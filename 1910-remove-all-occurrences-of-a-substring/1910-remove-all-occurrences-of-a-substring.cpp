@@ -7,10 +7,7 @@ public:
 
 
         while(s.size() > 0 && s.find(part) < n1){
-            if(s.find(part) < n1){
             s.erase(s.find(part) , n2);
-        }
-
         }
         return  s;
     }
