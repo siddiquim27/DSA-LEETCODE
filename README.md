@@ -64,6 +64,7 @@ Solving Leetcode Problems
 | [0125-valid-palindrome](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -78,6 +79,7 @@ Solving Leetcode Problems
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -89,6 +91,7 @@ Solving Leetcode Problems
 | [0125-valid-palindrome](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -151,4 +154,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
