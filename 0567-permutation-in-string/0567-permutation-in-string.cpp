@@ -1,38 +1,34 @@
 class Solution {
 public:
-
-    bool isFreqSame(int freq1[] , int freq2[]){
-      for(int i = 0; i < 26; i++){
-        if(freq1[i] != freq2[i]){
-            return false;
-        }
-      }
-      return true;
-    }
-
-
-
     bool checkInclusion(string s1, string s2) {
-        int freq[26] = {0};
+        unordered_map<char,int> freq;
 
-        for(int i = 0; i < s1.length(); i++){
-            freq[s1[i] - 'a']++;
+        // freq of s1
+        for (int i = 0; i < s1.length(); i++) {
+            freq[s1[i]]++;
         }
+
         int winSize = s1.length();
-        for(int i = 0; i < s2.length(); i++){
-            int winIdx = 0; int idx = i;
 
-            int winFreq[26] = {0};
-            while(winIdx < winSize && idx < s2.length()){
-                winFreq[s2[idx] - 'a']++;
-                winIdx++; idx++;
+        for (int i = 0; i < s2.length(); i++) {
+
+            unordered_map<char,int> winFreq;
+
+            // build window
+            for (int j = i; j < i + winSize && j < s2.length(); j++) {
+                winFreq[s2[j]]++;
             }
 
-            if(isFreqSame(freq , winFreq)){
-                return true;
-
+            // compare maps using simple for loop
+            bool same = true;
+            for (auto it : freq) {
+                if (winFreq[it.first] != it.second) {
+                    same = false;
+                    break;
+                }
             }
 
+            if (same) return true;
         }
         return false;
     }
