@@ -92,6 +92,7 @@ Solving Leetcode Problems
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -153,6 +154,7 @@ Solving Leetcode Problems
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
