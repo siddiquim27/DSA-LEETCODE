@@ -19,6 +19,7 @@ Solving Leetcode Problems
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -44,6 +45,7 @@ Solving Leetcode Problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
