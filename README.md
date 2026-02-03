@@ -31,6 +31,7 @@ Solving Leetcode Problems
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3637-trionic-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3637-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
