@@ -32,11 +32,13 @@ Solving Leetcode Problems
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
+| [3640-trionic-array-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
