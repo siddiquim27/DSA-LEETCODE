@@ -38,6 +38,7 @@ Solving Leetcode Problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@ Solving Leetcode Problems
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -164,6 +166,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
