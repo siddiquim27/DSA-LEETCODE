@@ -35,6 +35,7 @@ Solving Leetcode Problems
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Solving Leetcode Problems
 | [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -143,6 +145,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +185,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
