@@ -63,6 +63,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -103,6 +104,7 @@ Solving Leetcode Problems
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0242-valid-anagram) |
@@ -127,6 +129,7 @@ Solving Leetcode Problems
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -173,6 +176,7 @@ Solving Leetcode Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Stack
 |  |
