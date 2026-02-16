@@ -151,6 +151,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
@@ -177,6 +178,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Stack
 |  |
