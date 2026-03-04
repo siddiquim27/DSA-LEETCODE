@@ -125,6 +125,7 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
