@@ -112,6 +112,7 @@ Solving Leetcode Problems
 | [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3713-longest-balanced-substring-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
