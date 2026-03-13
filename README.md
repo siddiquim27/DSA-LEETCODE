@@ -31,6 +31,7 @@ Solving Leetcode Problems
 | [1929-concatenation-of-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3637-trionic-array-i) |
@@ -59,6 +60,7 @@ Solving Leetcode Problems
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Solving Leetcode Problems
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/2481-strictly-palindromic-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3830-find-closest-person](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -149,6 +152,7 @@ Solving Leetcode Problems
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +211,8 @@ Solving Leetcode Problems
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0401-binary-watch) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
