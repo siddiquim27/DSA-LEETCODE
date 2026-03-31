@@ -28,6 +28,7 @@ Solving Leetcode Problems
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
