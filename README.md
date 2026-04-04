@@ -21,6 +21,7 @@ Solving Leetcode Problems
 | [0162-find-peak-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0792-binary-search) |
