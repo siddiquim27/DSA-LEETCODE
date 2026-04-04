@@ -20,6 +20,7 @@ Solving Leetcode Problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ Solving Leetcode Problems
 | [0066-plus-one](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -84,6 +86,7 @@ Solving Leetcode Problems
 | [0125-valid-palindrome](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/siddiquim27/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
